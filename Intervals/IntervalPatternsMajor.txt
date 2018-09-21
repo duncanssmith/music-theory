@@ -1,0 +1,54 @@
+Major keys: (Ionian)
+
+T T s T T T s
+
+        1 2 34 5 6 71 2 34 5 6 71
+C       |-|-||-|-|-||-|-||-|-|-||
+        C.D.EF.G.A.BC.D.EF.G.A.BC
+C       |-|-||-|-|-|                     
+G              |-|-||-|-|-|
+D         |-|-||-|-|-|
+A                |-|-||-|-|-|
+E           |-|-||-|-|-|
+B                  ||-|-||-|-|
+F#/Gb         |-|-||-|-|-| 
+Db       |-|-||-|-|-|
+Ab              |-|-||-|-|-| 
+Eb         |-|-||-|-|-|
+Bb                 |-|-||-|-|-| 
+F            |-|-||-|-|-|
+
+2 Octaves:
+        1 2 34 5 6 71 2 34 5 6 71
+C       |-|-||-|-|-||-|-||-|-|-||
+        C.D.EF.G.A.BC.D.EF.G.A.BC
+C       |-|-||-|-|-|                     
+G              |-|-||-|-|-|
+D         |-|-||-|-|-|
+A                |-|-||-|-|-|
+E           |-|-||-|-|-|
+B                  ||-|-||-|-|
+F#/Gb         |-|-||-|-|-| 
+Db       |-|-||-|-|-|
+Ab              |-|-||-|-|-| 
+Eb         |-|-||-|-|-|
+Bb                 |-|-||-|-|-| 
+F            |-|-||-|-|-|
+
+
+
+
+Circle of Fifths:
+C  D  E  F  G  A  B     0
+G  A  B  C  D  E  F#    1# (F#)
+D  E  F# G  A  B  C#    2# (F#, C#)
+A  B  C# D  E  F# G#    3# (F#, C#, G#)
+E  F# G# A  B  C# D#    4# (F#, C#, G#, D#)
+B  C# D# E  F# G# A#    5# (F#, C#, G#, D#, A#)
+Gb Ab Bb Cb Bb Cb Db    6b (Bb, Eb, Ab, Db, Gb, Cb)
+Db Eb F  Gb Ab Bb C     5b (Bb, Eb, Ab, Db, Gb)
+Ab Bb C  Db Eb F  G     4b (Bb, Eb, Ab, Db)
+Eb F  G  Ab Bb C  D     3b (Bb, Eb, Ab)
+Bb C  D  Eb F  G  A     2b (Bb, Eb)
+F  G  A  Bb C  D  E     1b (Bb)
+C  D  E  F  G  A  B     0

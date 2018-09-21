@@ -1,0 +1,37 @@
+Minor keys:
+
+T s T T T s T
+
+        1 2 34 5 6 71 2 34 5 6 71
+C       |-|-||-|-|-||-|-||-|-|-||
+        C.D.EF.G.A.BC.D.EF.G.A.BC
+A                |-||-|-||-|
+E           |-||-|-||-|
+B                  |-||-|-||-|
+F#            |-||-|-||-| 
+C#       |-||-|-||-|
+G#              |-||-|-||-|
+D#        |-||-|-|-|-|
+Bb                |-||-|-||-|
+F            |-||-|-||-|
+C       |-||-|-||-|                     
+G              |-||-|-||-|
+D         |-||-|-||-|
+A                |-||-|-||-|
+
+Circle of Fifths Minor Keys:
+A  B  C  D  E  F  G    0
+E  Gb G  A  B  C  D    1b (Gb)
+B  Db D  E  Gb G  A    2b (Db, Gb)
+F# G# A  B  C# D  E    3# (F#, G#, C#) 
+Gb Ab A  B  Db D  D    3b (Gb, Ab, Db) 
+
+C# Eb F  Gb Ab Bb C    5b (Bb, Eb, Ab, Db, Gb)
+G# Bb C  Db Eb F  G    4b (Bb, Eb, Ab, Db)
+C# Eb F  Gb Ab Bb C    5b (Bb, Eb, Ab, Db, Gb)
+Bb C  D  Eb F  G  A    2b (Bb, Eb)
+F  G  A  Bb C  D  E    1b (Bb)
+C  D  Eb F  G  A  B    0
+G  A  B  C  D  E  F#   1# (F#)
+D  E  F# G  A  B  C#   2# (F#, C#)
+A  B  C# D  E  F# G#   3# (F#, C#, G#)

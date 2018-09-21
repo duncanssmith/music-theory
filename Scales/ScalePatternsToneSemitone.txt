@@ -1,0 +1,7 @@
+Major:                T T s T T T s
+Natural Minor:        T s T T s T T 
+Dominant:             T T s T T s T
+
+Minor complication:
+Harmonic Minor:       T s T T s T T 
+Melodic Minor (A/D))  T s T T s T T 

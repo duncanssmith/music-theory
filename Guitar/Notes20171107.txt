@@ -1,0 +1,31 @@
+Pedal note:
+
+If you're playing a harmonised scale of Dmajor, the pedal note is A
+
+So:
+
+I    ii    iii    IV    V    vi    vii 
+D    E-    F#-    G     A    B     C#o
+
+
+
+The pedal note is the 5th (dominant) of the scale, and will work harmonically with 
+any of the 7 harmonised chords, and can be played together with any of the notes 
+from any of the chords in the scale
+
+Sequence in Db:
+
+  I      ii    iii   IV     V      vi     vii
+  Db     Eb-   F-    Gb     Ab     Bb-    Co
+
+
+1 6 2 5:
+  I      vi    ii    V
+| DbM7 | Bb7 | Eb- | Ab7 |
+
+
+2 5 1:
+  ii     V      I
+| Eb-  | Ab7  | DbM7 |
+
+

@@ -1,0 +1,79 @@
+Circle of fifths:
+
+
+               C
+
+            F      G
+
+         Bb           D
+
+      Eb                 A
+
+         Ab           E
+
+            Db     B
+
+              F#/Gb
+
+
+Sharps in keys in incrementing order:
+C  D  E  F  G  A  B     0#
+G  A  B  C  D  E  F#    1# (F)
+D  E  F# G  A  B  C#    2# (F, C)
+A  B  C# D  E  F# G#    3# (F, C, G)
+E  F# G# A  B  C# D#    4# (F, C, G, D)
+B  C# D# E  F# G# A#    5# (F, C, G, D, A)
+
+Flats in keys in incrementing order:
+F  G  A  Bb C  D  E     1b (B)
+Bb C  D  Eb F  G  A     2b (B, E)
+Eb F  G  Ab Bb C  D     3b (B, E, A)
+Ab Bb C  Db Eb F  G     4b (B, E, A, D)
+Db Eb F  Gb Ab Bb C     5b (B, E, A, D, G)
+Gb Ab Bb Cb Bb Cb Db    6b (B, E, A, D, G, C)
+
+In another order, all 12 keys:
+Gb Ab Bb Cb Bb Cb Db    6b (B, E, A, D, G, C)
+Db Eb F  Gb Ab Bb C     5b (B, E, A, D, G)
+Ab Bb C  Db Eb F  G     4b (B, E, A, D)
+Eb F  G  Ab Bb C  D     3b (B, E, A)
+Bb C  D  Eb F  G  A     2b (B, E)
+F  G  A  Bb C  D  E     1b (B)
+C  D  E  F  G  A  B     0#
+G  A  B  C  D  E  F#    1# (F)
+D  E  F# G  A  B  C#    2# (F, C)
+A  B  C# D  E  F# G#    3# (F, C, G)
+E  F# G# A  B  C# D#    4# (F, C, G, D)
+B  C# D# E  F# G# A#    5# (F, C, G, D, A)
+
+Or how about this order:
+C  D  E  F  G  A  B     0#
+G  A  B  C  D  E  F#    1# (F#)
+D  E  F# G  A  B  C#    2# (F#, C#)
+A  B  C# D  E  F# G#    3# (F#, C#, G#)
+E  F# G# A  B  C# D#    4# (F#, C#, G#, D#)
+B  C# D# E  F# G# A#    5# (F#, C#, G#, D#, A#)
+Gb Ab Bb Cb Bb Cb Db    6b (Bb, Eb, Ab, Db, Gb, Cb)
+Db Eb F  Gb Ab Bb C     5b (Bb, Eb, Ab, Db, Gb)
+Ab Bb C  Db Eb F  G     4b (Bb, Eb, Ab, Db)
+Eb F  G  Ab Bb C  D     3b (Bb, Eb, Ab)
+Bb C  D  Eb F  G  A     2b (Bb, Eb)
+F  G  A  Bb C  D  E     1b (Bb)
+
+
+Relative minor
+
+
+               A-
+
+            D-     E-
+
+         G-           B-
+
+      C-                 F#- 
+
+         F-           C#-
+
+            Bb-    G#-
+
+               D#-

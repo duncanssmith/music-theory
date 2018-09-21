@@ -1,0 +1,28 @@
+    1        b2         2        -3         3         4        b5         5        b6         6        b7         7        1/8       b9        2/9      -3/10     3/10      4/11     b5/b12      5/12    b6/b13      13
+
+[   C   ] [ C#|Db ] [   D   ] [ D#|Eb ] [   E   ] [   F   ] [ F#|Gb ] [   G   ] [ G#|Ab ] [   A   ] [ A#|Bb ] [   B   ] [   C   ] [ C#|Db ] [   D   ] [ D#|Eb ] [   E   ] [   F   ] [ F#|Gb ] [   G   ] [ G#|Ab ] [   A   ] 
+
+[ C#|Db ] [   D   ] [ D#|Eb ] [   E   ] [   F   ] [ F#|Gb ] [   G   ] [ G#|Ab ] [   A   ] [ A#|Bb ] [   B   ] [   C   ] [ C#|Db ] [   D   ] [ D#|Eb ] [   E   ] [   F   ] [ F#|Gb ] [   G   ] [ G#|Ab ] [   A   ] [ A#|Bb ] 
+
+[   D   ] [ D#|Eb ] [   E   ] [   F   ] [ F#|Gb ] [   G   ] [ G#|Ab ] [   A   ] [ A#|Bb ] [   B   ] [   C   ] [ C#|Db ] [   D   ] [ D#|Eb ] [   E   ] [   F   ] [ F#|Gb ] [   G   ] [ G#|Ab ] [   A   ] [ A#|Bb ] [   B   ] 
+
+[ D#|Eb ] [   E   ] [   F   ] [ F#|Gb ] [   G   ] [ G#|Ab ] [   A   ] [ A#|Bb ] [   B   ] [   C   ] [ C#|Db ] [   D   ] [ D#|Eb ] [   E   ] [   F   ] [ F#|Gb ] [   G   ] [ G#|Ab ] [   A   ] [ A#|Bb ] [   B   ] [   C   ] 
+
+[   E   ] [   F   ] [ F#|Gb ] [   G   ] [ G#|Ab ] [   A   ] [ A#|Bb ] [   B   ] [   C   ] [ C#|Db ] [   D   ] [ D#|Eb ] [   E   ] [   F   ] [ F#|Gb ] [   G   ] [ G#|Ab ] [   A   ] [ A#|Bb ] [   B   ] [   C   ] [ C#|Db ] 
+
+[   F   ] [ F#|Gb ] [   G   ] [ G#|Ab ] [   A   ] [ A#|Bb ] [   B   ] [   C   ] [ C#|Db ] [   D   ] [ D#|Eb ] [   E   ] [   F   ] [ F#|Gb ] [   G   ] [ G#|Ab ] [   A   ] [ A#|Bb ] [   B   ] [   C   ] [ C#|Db ] [   D   ] 
+
+[ F#|Gb ] [   G   ] [ G#|Ab ] [   A   ] [ A#|Bb ] [   B   ] [   C   ] [ C#|Db ] [   D   ] [ D#|Eb ] [   E   ] [   F   ] [ F#|Gb ] [   G   ] [ G#|Ab ] [   A   ] [ A#|Bb ] [   B   ] [   C   ] [ C#|Db ] [   D   ] [ D#|Eb ] 
+
+[   G   ] [ G#|Ab ] [   A   ] [ A#|Bb ] [   B   ] [   C   ] [ C#|Db ] [   D   ] [ D#|Eb ] [   E   ] [   F   ] [ F#|Gb ] [   G   ] [ G#|Ab ] [   A   ] [ A#|Bb ] [   B   ] [   C   ] [ C#|Db ] [   D   ] [ D#|Eb ] [   E   ] 
+
+[ G#|Ab ] [   A   ] [ A#|Bb ] [   B   ] [   C   ] [ C#|Db ] [   D   ] [ D#|Eb ] [   E   ] [   F   ] [ F#|Gb ] [   G   ] [ G#|Ab ] [   A   ] [ A#|Bb ] [   B   ] [   C   ] [ C#|Db ] [   D   ] [ D#|Eb ] [   E   ] [   F   ] 
+
+[   A   ] [ A#|Bb ] [   B   ] [   C   ] [ C#|Db ] [   D   ] [ D#|Eb ] [   E   ] [   F   ] [ F#|Gb ] [   G   ] [ G#|Ab ] [   A   ] [ A#|Bb ] [   B   ] [   C   ] [ C#|Db ] [   D   ] [ D#|Eb ] [   E   ] [   F   ] [ F#|Gb ] 
+
+[ A#|Bb ] [   B   ] [   C   ] [ C#|Db ] [   D   ] [ D#|Eb ] [   E   ] [   F   ] [ F#|Gb ] [   G   ] [ G#|Ab ] [   A   ] [ A#|Bb ] [   B   ] [   C   ] [ C#|Db ] [   D   ] [ D#|Eb ] [   E   ] [   F   ] [ F#|Gb ] [   G   ] 
+
+[   B   ] [   C   ] [ C#|Db ] [   D   ] [ D#|Eb ] [   E   ] [   F   ] [ F#|Gb ] [   G   ] [ G#|Ab ] [   A   ] [ A#|Bb ] [   B   ] [   C   ] [ C#|Db ] [   D   ] [ D#|Eb ] [   E   ] [   F   ] [ F#|Gb ] [   G   ] [ G#|Ab ] 
+
+[   C   ] [ C#|Db ] [   D   ] [ D#|Eb ] [   E   ] [   F   ] [ F#|Gb ] [   G   ] [ G#|Ab ] [   A   ] [ A#|Bb ] [   B   ] [   C   ] [ C#|Db ] [   D   ] [ D#|Eb ] [   E   ] [   F   ] [ F#|Gb ] [   G   ] [ G#|Ab ] [   A   ] 
+

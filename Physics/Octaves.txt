@@ -1,0 +1,23 @@
+Note, Octave, Frequency Hz, Name
+A, 10, 28160.00,
+C, 10, 16744.04,
+A,  9, 14080.00,
+C,  9,  8372.02,
+A,  8,  7040.00,
+C,  8,  4186.01, Highest note on a piano
+A,  7,  3520.00,
+C,  7,  2093.04,
+A,  6,  1760.00,
+C,  6,  1046.52,
+A,  5,   880.00,
+C,  5,   523.26,
+A,  4,   440.00, Concert pitch A
+C,  4,   261.63, Middle C
+A,  3,   220.00,
+C,  3,   130.80
+A,  2,   110.00,
+C,  2,    65.40
+A,  1,    55.00,
+C,  1,    32.70,
+A,  0,    27.50, Lowest note on a piano
+C,  0,    16.35, Lowest audible C

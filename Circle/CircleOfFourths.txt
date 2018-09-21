@@ -1,0 +1,22 @@
+Circle of fourths:
+
+C   F   Bb  Eb  Ab  Db  Gb  B   E   A   D   G   C
+
+
+Anticlockwise same as Circle of Fifths:
+
+               C
+
+            F      G
+
+         Bb           D
+
+      Eb                 A
+
+         Ab           E
+
+            Db     B
+
+              F#/Gb
+
+

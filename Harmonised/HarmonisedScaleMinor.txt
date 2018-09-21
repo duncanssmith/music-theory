@@ -1,0 +1,37 @@
+Minor scale harmonised
+----------------------
+
+C Major for comparison
+
+    I         ii        iii       IV        V         vi        vii       I
+    C         D         E         F         G         A         B         C    
+    ^         -         -         ^         ^         -         o         ^
+
+    I         ii        iii       IV        V         vi        vii       I
+    G         A         B         C         D         E         F         G
+    E         F         G         A         B         C         D         E
+    C         D         E         F         G         A         B         C    
+    ^         -         -         ^         ^         -         o         ^
+
+A Natural Minor
+
+    i        ii        III        iv        V         VI        vii        i
+    A        B         C          D         E         F         G          A
+    -        o         +          -         ^         ^         -          -
+
+
+
+A Harmonic Minor
+
+    i        ii        III        iv        V         VI        vii        i
+    A        B         C          D         E         F         G#         A
+    -        o         +          -         ^         ^         -          -
+
+
+A Harmonised Minor
+
+     i        ii       III        iv        V         VI        vii        i
+5    E        F        G#         A         B         C         D          E
+3    C        D        E          F         G#        A         B          C
+1    A        B        C          D         E         F         G#         A
+

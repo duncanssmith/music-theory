@@ -1,0 +1,31 @@
+    I        ii        iii       IV         V         vi        vii        I
+
+    C         D         E         F         G         A         B         C    
+
+  C#|Db     D#|Eb       F       F#|Gb     G#|Ab     A#|Bb       C       C#|Db  
+
+    D         E       F#|Gb       G         A         B       C#|Db       D    
+
+  D#|Eb       F         G       G#|Ab     A#|Bb       C         D       D#|Eb  
+
+    E       F#|Gb     G#|Ab       A         B       C#|Db     D#|Eb       E    
+
+    F         G         A       A#|Bb       C         D         E         F    
+
+  F#|Gb     G#|Ab     A#|Bb       B       C#|Db     D#|Eb       F       F#|Gb  
+
+    G         A         B         C         D         E       F#|Gb       G    
+
+  G#|Ab     A#|Bb       C       C#|Db     D#|Eb       F         G       G#|Ab  
+
+    A         B       C#|Db       D         E       F#|Gb     G#|Ab       A    
+
+  A#|Bb       C         D       D#|Eb       F         G         A       A#|Bb  
+
+    B       C#|Db     D#|Eb       E       F#|Gb     G#|Ab     A#|Bb       B    
+
+    C         D         E         F         G         A         B         C    
+
+
+
+
