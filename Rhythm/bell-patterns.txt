@@ -1,0 +1,99 @@
+Bell pattern
+
+Standard/
+Bembe (Afro Cuban)
+1 2 3 1 2 3 1 2 3 1 2 3
+l - - l - - l - - l - -
+r - r - r r - r - r - r
+
+Yoruba (Nigeria)
+1 2 3 1 2 3 1 2 3 1 2 3
+l - - l - - l - - l - -
+r - r - r r - r - r r -
+
+Soli (Senegal)
+1 2 3 1 2 3 1 2 3 1 2 3
+l - - l - - l - - l - -
+r - r - r - r - r r - r
+
+Tambu (Afro-Curacao)
+1 2 3 1 2 3 1 2 3 1 2 3
+l - - l - - l - - l - -
+r - r r - r r - r - r -
+
+Bembe 2 (Afro Cuban)
+1 2 3 1 2 3 1 2 3 1 2 3
+l - - l - - l - - l - -
+r r - r - r r - r - r -
+
+Tonada (Spanish-Cuban)
+1 2 3 1 2 3 1 2 3 1 2 3
+l - - l - - l - - l - -
+r - r r - r r - r - r -
+
+Asadua (Ghana)
+1 2 3 1 2 3 1 2 3 1 2 3
+l - - l - - l - - l - -
+r - r - r - r r - r r -
+
+Sorsonet (W. Guinea)
+1 2 3 1 2 3 1 2 3 1 2 3
+l - - l - - l - - l - -
+r r r - r - r - r - r -
+
+Bemba (Zimbabwe)
+1 2 3 1 2 3 1 2 3 1 2 3
+l - - l - - l - - l - -
+r - r r - r - r - r r -
+
+Ashanti (Ghana)
+1 2 3 1 2 3 1 2 3 1 2 3
+l - - l - - l - - l - -
+r - r r - r - r r - r -
+
+Yanvalou/Long Bell (Haiti/Benin)
+1 2 3 1 2 3 1 2 3 1 2 3
+l - - l - - l - - l - -
+r - r - r - r r - r - r
+
+Bahavento (Afro/Brazil)
+1 2 3 1 2 3 1 2 3 1 2 3
+l - - l - - l - - l - -
+r - - r - - r - - r - -
+
+Mahi/Long Bell (Afro-Haitian)
+1 2 3 1 2 3 1 2 3 1 2 3
+l - - l - - l - - l - -
+r - r - r - r r - r - r
+
+Soli 2/Shuffle (Mali/US)
+1 2 3 1 2 3 1 2 3 1 2 3
+l - - l - - l - - l - -
+r - r r - r r - r r - r
+
+Fume Fume (Ghana)
+1 2 3 1 2 3 1 2 3 1 2 3
+l - - l - - l - - l - -
+r - r - r - - r - r - r
+
+Kenkeni (Guinea)
+1 2 3 1 2 3 1 2 3 1 2 3
+l - - l - - l - - l - -
+- r r - r r - r r - r r
+
+Djabara (N E Guinea)
+1 2 3 1 2 3 1 2 3 1 2 3
+l - - l - - l - - l - -
+r r - r r - r r - r r -
+
+Bikutsi (Cameroon)
+1 2 3 1 2 3 1 2 3 1 2 3
+l - - l - - l - - l - -
+r - r - r - r - r - r -
+
+Jazz Swing (US)
+1 2 3 1 2 3 1 2 3 1 2 3
+l - - l - - l - - l - -
+r - - r - r r - - r - r
+
+
