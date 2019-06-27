@@ -42,6 +42,11 @@ Diminished scale Semitone-Tone (Octatonic 8 notes)
                 .         .         .         .              ..
 
 Augmented scale (Hexatonic 6 notes)
+    Also called symmetrical augmented scale as it can be seen as an interlocking combination of two augmented
+    triads and aug second or minor third apart, e.g.: C E G# and Eb G B
+    And 'minor-third half-step scale'
+    See Coltrane, Oliver Nelson
+
 
  3|----|----|--4-|--5-|----|----|--6-|--1-|----|----|--2-|--3-|----
  ||--1-|----|----|--2-|--3-|----|----|--4-|--5-|----|----|--6-|--1-
