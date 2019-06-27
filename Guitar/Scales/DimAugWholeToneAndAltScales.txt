@@ -64,6 +64,13 @@ Augmented whole tone scale (Hexatonic 6 notes)
 
 Altered scale (Heptatonic 7 notes)
     Play over dominant V7 chords that resolve down to the minor, eg C7 to F-7
+    Also called 'Super locrian' scale
+    The scale contains the three 'irreducibly essential tone that define the dominant seventh chord (1,b3,b7)
+    but all the other tones are altered:
+         5 -> b5, #5
+    (2)  9 -> b9, #9
+    (4) 11 -> #11 (b5)
+    (6) 13 -> b13 (#5)
 
  3|----|--4-|----|--5-|----|--7-|----|--1-|--2-|----|--2-|--3-|----
  ||--1-|--2-|----|--2-|--3-|----|--4-|----|--5-|----|--7-|----|--1-
