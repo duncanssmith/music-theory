@@ -1,0 +1,67 @@
+
+Classic Blues I IV V
+
+|    I           |    %           |    %           |    %           |
+ - - - - - - - -  - - - - - - - -  - - - - - - - -  - - - - - - - - -  
+
+
+
+|    IV          |    %           |    I           |    %           |
+ - - - - - - - -  - - - - - - - -  - - - - - - - -  - - - - - - - - -  
+
+
+
+|    V           |    IV          |    I           |    V           |
+ - - - - - - - -  - - - - - - - -  - - - - - - - -  - - - - - - - - -  
+
+
+
+Jazz Blues
+I      = Bb7    = Eb7
+ii     = C-7    = F-7
+IV     = Eb7    = Ab7
+#IVdim = Eo7    = Ao7
+V      = F7     = Bb7
+VI     = G7     = C7
+
+     I               IV                I              { II-V in Eb } 
+|    Bb7        |    Eb7           |   Bb7         |    F-7    Bb7   |
+ - - - - - - - -  - - - - - - - -  - - - - - - - -  - - - - - - - - -  
+
+
+     VI               #IVdim         { I              VI
+|    Eb7         |    Eo7         |    Bb7         |  G7             |
+ - - - - - - - -  - - - - - - - -  - - - - - - - -  - - - - - - - - -  
+
+
+   ii                 V }           { I      VI       ii      V }
+|  C-7            |   F7           |  Bb7    G7    |  C-7     F7     |
+ - - - - - - - -  - - - - - - - -  - - - - - - - -  - - - - - - - - -  
+
+ Commentary:
+
+The following points identify where the Jazz Blues progression develops the classic blues progression into a new progression.
+
+bar1: The I chord
+bar2: Quick change to the IV chord
+bar3: Return to the I chord
+bar4: ii-V of Eb
+bar5: optionally substitute, but in this example keep the plain IV chord
+bar6: Leading to I chord in bar7, use the #IVdim chord
+bar7: Return to the I chord
+bar8: VI chord acts as a substitute for the I chord. The 6th is the relative minor of the root, but here it is not Minor!!
+bar9: ii-V progression. Replaces the classic V-IV because you can always put a ii before a V, and it completes a I-VI-ii-V progression through bars 7, 8, 9 and 10.
+bars10-12: a repeat of the I-VI-ii-V but compressed into two bars as a turnaround. The V leads back to the I in bar1.
+
+
+
+
+
+
+|                |                |                |                |
+ - - - - - - - -  - - - - - - - -  - - - - - - - -  - - - - - - - - -  
+
+
+
+|                |                |                |                |
+ - - - - - - - -  - - - - - - - -  - - - - - - - -  - - - - - - - - -  
