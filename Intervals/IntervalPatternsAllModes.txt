@@ -1,12 +1,12 @@
 Mode        Tonic relative
             to major scale    Interval sequence    Example
 Ionian      I                 T-T-s-T-T-T-s        C-D-EF-G-A-BC
-Dorian      II                T-s-T-T-T-s-T        D-EF-G-A-BC-D
-Phrygian    III               s-T-T-T-s-T-T        EF-G-A-BC-D-E
+Dorian      ii                T-s-T-T-T-s-T        D-EF-G-A-BC-D
+Phrygian    iii               s-T-T-T-s-T-T        EF-G-A-BC-D-E
 Lydian      IV                T-T-T-s-T-T-s        F-G-A-BC-D-EF
 Mixolydian  V                 T-T-s-T-T-s-T        G-A-BC-D-EF-G
-Aeolian     VI                T-s-T-T-s-T-T        A-BC-D-EF-G-A
-Locrian     VII               s-T-T-s-T-T-T        BC-D-EF-G-A-B
+Aeolian     vi                T-s-T-T-s-T-T        A-BC-D-EF-G-A
+Locrian     vii               s-T-T-s-T-T-T        BC-D-EF-G-A-B
 
 
 
