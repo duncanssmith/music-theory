@@ -1,0 +1,78 @@
+
+Classic Blues I IV V
+
+|    I           |    %           |    %           |    %           |
+ - - - - - - - -  - - - - - - - -  - - - - - - - -  - - - - - - - - -
+
+
+
+|    IV          |    %           |    I           |    %           |
+ - - - - - - - -  - - - - - - - -  - - - - - - - -  - - - - - - - - -
+
+
+
+|    V           |    IV          |    I           |    V           |
+ - - - - - - - -  - - - - - - - -  - - - - - - - -  - - - - - - - - -
+
+Jazz Blues
+Ivl down     4.5       2        4         4.5
+Ivl up       3.5       6        4         3.5
+I      = Bb7    = Eb7    = Db7     =  G7     =  C7
+ii     = C-7    = F-7    = Eb-7    =  A-7    =  D-7
+IV     = Eb7    = Ab7    = F#7     =  C7     =  E7
+#IVdim = Eo7    = Ao7    = Go7     =  Dbo7   =  F#o7
+V      = F7     = Bb7    = Ab7     =  D7     =  G7
+VI     = G7     = C7     = Bb7     =  E7     =  A7
+
+Key of Bb:
+
+   I                 IV                I                { II-V of Eb }
+|  Bb7            |  Eb7            |  Bb7            |   F-7    Bb7    |
+  - - - - - - - -   - - - - - - - -   - - - - - - - -   - - - - - - - -
+
+
+   IV                #IVdim           { I                VI
+|  Eb7            |  Eo7            |   B7            |  G7             |
+  - - - - - - - -   - - - - - - - -   - - - - - - - -   - - - - - - - -
+
+
+   ii                V }              { I      VI        ii      V }
+|  C-7            |  F7             |  Bb7    G7      |  C-7     F7     |
+  - - - - - - - -   - - - - - - - -   - - - - - - - -   - - - - - - - -
+
+
+The following lists bar by bar differences that develop the Classic Blues into the Jazz Blues.
+
+bar1: The I chord
+bar2: Quick change to the IV chord
+bar3: Return to the I chord
+bar4: ii-V of Eb
+bar5: Optionally substitute, but in this example keep the plain IV chord
+bar6: Use the #IVdim chord to lead to I chord in bar7,
+bar7: Return to the I chord
+bar8: VI chord acts as a substitute for the I chord. The 6th is the relative minor of the root, but here it is NOT Minor!!
+bar9: ii-V of Bb. Replaces the classic V-IV because you can always put a ii before a V, and it completes a I-VI-ii-V progression through bars 7, 8, 9 and 10.
+bar10,11,12: repeat the I-VI-ii-V in two bars, the turnaround. The V leads back to the I in bar1.
+
+Key of Eb:
+
+   I                 IV                I                { II-V in Ab }
+|  Eb7            |  Ab7            |  Eb7            |   Bb-7   Eb7    |
+  - - - - - - - -   - - - - - - - -   - - - - - - - -   - - - - - - - -
+
+
+   IV               #IVdim            { I                VI
+|  Ab7            |  Ao7            |   Eb7           |  C7             |
+  - - - - - - - -   - - - - - - - -   - - - - - - - -   - - - - - - - -
+
+
+   ii                 V }             { I       VI       ii      V }
+|  F-7            |   Bb7           |   Eb7     C7    |  F-7     Bb7    |
+  - - - - - - - -   - - - - - - - -   - - - - - - - -   - - - - - - - -
+
+
+
+
+|                 |                 |                 |                 |
+  - - - - - - - -   - - - - - - - -   - - - - - - - -   - - - - - - - -
+

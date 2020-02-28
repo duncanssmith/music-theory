@@ -19,3 +19,11 @@ VI          SubMediant
 VII         SubTonic
 I           Tonic
 
+In BRIGHTNESS order
+Lydian      IV                T-T-T-s-T-T-s        F-G-A-BC-D-EF
+Ionian      I                 T-T-s-T-T-T-s        C-D-EF-G-A-BC
+Mixolydian  V                 T-T-s-T-T-s-T        G-A-BC-D-EF-G
+Dorian      II                T-s-T-T-T-s-T        D-EF-G-A-BC-D
+Aeolian     VI                T-s-T-T-s-T-T        A-BC-D-EF-G-A
+Phrygian    III               s-T-T-T-s-T-T        EF-G-A-BC-D-E
+Locrian     VII               s-T-T-s-T-T-T        BC-D-EF-G-A-B
