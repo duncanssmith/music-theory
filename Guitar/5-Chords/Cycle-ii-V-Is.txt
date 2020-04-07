@@ -1,8 +1,9 @@
 ii V I in Circle of Fourths
 ---------------------------
 
-
-| CM7       | G-7   C7  | FM7       | C-7   F7  |
+  I           ii    V     I           ii    V
+  6           5     6     5           6     5
+| CM7 (6)   | G-7   C7  | FM7       | C-7   F7  |
 
 
 | BbM7      | F-7   Bb7 | EbM7      | Bb-7  Eb7 |
@@ -10,16 +11,16 @@ ii V I in Circle of Fourths
 
 | AbM7      | Eb-7  Ab7 | DbM7      | Ab-7  Db7 |
 
-
+  6           6     5     6           5     6
 | F#M7      | C#-7  F#7 | BM7       | F#-7  B7  |
 
+  5           6     5     6           5     6
+| EM7 (5)   | B-7   E7  | AM7       | E-7   A7  |
 
-| EM7       | B-7   E7  | AM7       | E-7   A7  |
-
-
+  5           6     5     6           5     6
 | DM7       | A-7   D7  | GM7       | D-7   G7  |
 
-
+  6           5     6     5           6     5
 | CM7       | G-7   C7  | FM7       | C-7   F7  |
 
 

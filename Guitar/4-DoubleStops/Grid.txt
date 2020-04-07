@@ -1,0 +1,27 @@
+0   1   -   2   -   3   4   -   5   -   6   -   7   1
+
+1   C   Db  D   Eb  E   F   F#  G   Ab  A   Bb  B   C
+
+-   Db  D   Eb  E   F   F#  G   Ab  A   Bb  B   C   Db
+
+2   D   Eb  E   F   F#  G   Ab  A   Bb  B   C   Db  D
+
+-   Eb  E   F   F#  G   Ab  A   Bb  B   C   Db  D   Eb
+
+3   E   F   F#  G   Ab  A   Bb  B   C   Db  D   Eb  E
+
+4   F   F#  G   Ab  A   Bb  B   C   Db  D   Eb  E   F
+
+    F#  G   Ab  A   Bb  B   C   Db  D   Eb  E   F   F#
+
+5   G   Ab  A   Bb  B   C   Db  D   Eb  E   F   F#  G
+
+    Ab  A   Bb  B   C   Db  D   Eb  E   F   F#  G   Ab
+
+6   A   Bb  B   C   Db  D   Eb  E   F   F#  G   Ab  A
+
+    Bb  B   C   Db  D   Eb  E   F   F#  G   Ab  A   Bb
+
+7   B   C   Db  D   Eb  E   F   F#  G   Ab  A   Bb  B
+
+1   C   Db  D   Eb  E   F   F#  G   Ab  A   Bb  B   C
