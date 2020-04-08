@@ -12,15 +12,15 @@
 
 4   F   F#  G   Ab  A   Bb  B   C   Db  D   Eb  E   F
 
-    F#  G   Ab  A   Bb  B   C   Db  D   Eb  E   F   F#
+-   F#  G   Ab  A   Bb  B   C   Db  D   Eb  E   F   F#
 
 5   G   Ab  A   Bb  B   C   Db  D   Eb  E   F   F#  G
 
-    Ab  A   Bb  B   C   Db  D   Eb  E   F   F#  G   Ab
+-   Ab  A   Bb  B   C   Db  D   Eb  E   F   F#  G   Ab
 
 6   A   Bb  B   C   Db  D   Eb  E   F   F#  G   Ab  A
 
-    Bb  B   C   Db  D   Eb  E   F   F#  G   Ab  A   Bb
+-   Bb  B   C   Db  D   Eb  E   F   F#  G   Ab  A   Bb
 
 7   B   C   Db  D   Eb  E   F   F#  G   Ab  A   Bb  B
 
