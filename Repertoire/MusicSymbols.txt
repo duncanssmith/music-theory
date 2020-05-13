@@ -1,0 +1,8 @@
+diminished: Ø 
+major:      Δ 
+minor:      -
+flat:       b
+sharp:      #
+
+
+

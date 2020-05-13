@@ -1,0 +1,47 @@
+St Thomas - Sonny Rollins: in All Keys
+
+  I            iii    vi    ii    V    I
+| C6         | E-7    A7  | D-7   G7   | C6         |
+| Db6        | F-7    Bb7 | Eb-7  G#7  | Db6        |
+| D6         | F#-7   B7  | E-7   A7   | D6         |
+| Eb6        | G-7    C7  | F-7   Bb7  | Eb6        |
+| E6         | G#-7   Db7 | F#-7  B7   | E6         |
+| F6         | A-7    D7  | G-7   C7   | F6         |
+| F#6        | Bb-7   Eb7 | G#-7  Db7  | F#6        |
+| G6         | B-7    E7  | A-7   D7   | G6         |
+| G#6        | C-7    F7  | Bb-7  Eb7  | G#6        |
+| A6         | Db-7   F#7 | B-7   E7   | A6         |
+| Bb6        | D-7    G7  | C-7   F7   | Bb6        |
+| B6         | Eb-7   G#7 | Db-7  F#7  | B6         |
+
+  iii          vi           ii           V
+| E^7b5      | A7         | D-7        | G7         |
+| F^7b5      | Bb7        | Eb-7       | G#7        |
+| F#^7b5     | B7         | E-7        | A7         |
+| G^7b5      | C7         | F-7        | Bb7        |
+| G#^7b5     | Db7        | F#-7       | B7         |
+| A^7b5      | D7         | G-7        | C7         |
+| Bb^7b5     | Eb7        | G#-7       | Db7        |
+| B^7b5      | E7         | A-7        | D7         |
+| C^7b5      | F7         | Bb-7       | Eb7        |
+| Db^7b5     | F#7        | B-7        | E7         |
+| D^7b5      | G7         | C-7        | F7         |
+| Eb^7b5     | G#7        | Db-7       | F#7        |
+
+  I    I        IV    #IV     I    V     I
+| C6   C7    | F^7   F#o7 |  C/G   G7  | C6         |
+| Db6  Db7   | F#^7  Go7  |  Db/G# G#7 | Db6        |
+| D6   D7    | G^7   G#o7 |  D/A   A7  | D6         |
+| Eb6  Eb7   | G#^7  Ao7  |  Eb/Bb Bb7 | Eb6        |
+| E6   E7    | A^7   Bbo7 |  E/B   B7  | E6         |
+| F6   F7    | Bb^7  Bo7  |  F/C   C7  | F6         |
+| F#6  F#7   | B^7   Co7  |  F#/Db Db7 | F#6        |
+| G6   G7    | C^7   Dbo7 |  G/D   D7  | G6         |
+| G#6  G#7   | Db^7  Do7  |  G#/Eb Eb7 | G#6        |
+| A6   A7    | D^7   Ebo7 |  A/E   E7  | A6         |
+| Bb6  Bb7   | Eb^7  Eo7  |  Bb/F  F7  | Bb6        |
+| B6   B7    | E^7   Fo7  |  B/F#  F#7 | G6         |
+
+
+
+

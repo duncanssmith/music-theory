@@ -1,0 +1,25 @@
+Id, Title, Artist, Composed, Genre, Level
+1, The Cantaloupe Woman, Grant Green, Jazz blues, 2
+2, Things Ain't What They Used To Be, Jim Hall, Jazz blues, 3
+3, A Foggy Day In London Town, Ella Fitzgerald and Louis Armstrong, Jazz, 1
+4, Minor Swing, Django Reinhardt, Jazz, 3
+5, Blue Bossa, Joe Henderson, Jazz, 2
+6, Midnight Blue, Kenny Burrell, Jazz, 4
+7, Chitlins con Carne, Kenny Burrell, Jazz, 4
+8, Sunny, Bobby Hebb, 1965, Jazz pop, 3
+9, Autumn Leaves, Joseph Kosma,1945, Jazz, 3 
+10, My Favourite Things, Rogers and Hammerstein, 1959, Jazz, 1
+11, All of Me, Gerald Marks and Seymour Simons, 1931, Jazz, 1
+12, Jeep on 36, John Scofield, 1980s, Jazz, 1
+13, Alison, Elvis Costello, 1977, Rock, 1
+14, Tenderness, Paul Simon, 1972, Rock, 1
+15, A Change Is Gonna Come, Sam Cooke, 1960s, Pop, 1
+16, Don't Give Up On Me, Solomon Burke, 1960s, Pop, 1
+17, Georgia, Emily King, 2010, Pop, 2
+18, Gimme a Holler, Bill Frisell, 2000, Jazz Americana, 1
+19, Roscoe, Bill Frisell, 2000, Jazz Americana, 1
+20, Verona, Bill Frisell, 2000, Jazz Americana, 1
+21, Zygaena, Jakob Bro, 2000, Jazz, 2
+
+
+
