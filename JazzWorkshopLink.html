@@ -1,0 +1,150 @@
+<html>
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+  <!-- jQuery library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+  <!-- Latest compiled JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+  <script type="text/javascript">
+
+  function startTime() {
+    var today=new Date()
+    var weekday = new Array()
+    weekday[0] = "Sunday"
+    weekday[1] = "Monday"
+    weekday[2] = "Tuesday"
+    weekday[3] = "Wednesday"
+    weekday[4] = "Thursday"
+    weekday[5] = "Friday"
+    weekday[6] = "Saturday"
+    var month = new Array(12)
+    month[0] = "January"
+    month[1] = "February"
+    month[2] = "March"
+    month[3] = "April"
+    month[4] = "May"
+    month[5] = "June"
+    month[6] = "July"
+    month[7] = "August"
+    month[8] = "September"
+    month[9] = "October"
+    month[10] = "November"
+    month[11] = "December"
+
+    var w = weekday[today.getUTCDay()]
+    var M = month[today.getUTCMonth()]
+    var D=today.getDay()
+    var h=today.getHours()
+    var m=today.getMinutes()
+    var s=today.getSeconds()
+
+    // add a zero in front of numbers<10
+    m=checkTime(m)
+    s=checkTime(s)
+    document.getElementById('now').innerHTML=w+" "+D+" "+M+" "+h+":"+m+":"+s
+    t=setTimeout('startTime()', 500)
+  }
+
+        function checkTime(i) {
+    if (i < 10) {
+      i = "0" + i
+    }
+    return i
+  }
+
+    function compareDatesWithNow() {
+      var datum = new Date(Date('2020','05','11','21','30','00'))
+      var now = new Date()
+      var month = new Array(12)
+      month[0] = "January"
+      month[1] = "February"
+      month[2] = "March"
+      month[3] = "April"
+      month[4] = "May"
+      month[5] = "June"
+      month[6] = "July"
+      month[7] = "August"
+      month[8] = "September"
+      month[9] = "October"
+      month[10] = "November"
+      month[11] = "December"
+      var weekday = new Array()
+      weekday[0] = "Sunday"
+      weekday[1] = "Monday"
+      weekday[2] = "Tuesday"
+      weekday[3] = "Wednesday"
+      weekday[4] = "Thursday"
+      weekday[5] = "Friday"
+      weekday[6] = "Saturday"
+      var classTimes = new Array 
+
+      classTimes = [new Date(Date.UTC('2020','04','11','21','30','00')),
+                    new Date(Date.UTC('2020','04','18','21','30','00')),
+                    new Date(Date.UTC('2020','04','25','21','30','00')),
+                    new Date(Date.UTC('2020','05','01','21','30','00')),
+                    new Date(Date.UTC('2020','05','08','21','30','00')),
+                    new Date(Date.UTC('2020','05','15','21','30','00')),
+                    new Date(Date.UTC('2020','05','22','21','30','00')),
+                    new Date(Date.UTC('2020','05','29','21','30','00')),
+                    new Date(Date.UTC('2020','06','06','21','30','00')),
+                ]
+
+      document.getElementById("nowTime").innerHTML='Now: '+weekday[now.getUTCDay()]+' '+now.getDate()+' '+month[now.getUTCMonth()]
+
+      var i = 0
+      for(i = 0; i < classTimes.length; i++) {
+      var key = 'ck' + i
+      if (now.getTime() > classTimes[i]) {
+        document.getElementById(key).innerHTML='<td>'+weekday[classTimes[i].getUTCDay()]+' '+classTimes[i].getDate()+' '+month[classTimes[i].getUTCMonth()]+'</td><td>&nbsp;<i class="fa fa-check-square-o text-success"></i></td>'
+            } else {
+        document.getElementById(key).innerHTML='<td>'+weekday[classTimes[i].getUTCDay()]+' '+classTimes[i].getDate()+' '+month[classTimes[i].getUTCMonth()]+'</td><td>&nbsp;<i class="fa fa-square-o text-primary"></i></td>'
+      }
+    }
+  }
+
+</script>
+</head>
+<body class="body" onload="startTime();compareDatesWithNow();">
+  <div class="jumbotron">
+  <div style="margin: 24px 20px 40px 10px;">
+    <h1>Morley College Summer Term</h1>
+    <h5>Duncan Smith</h5>
+    <h6>Student ID: 10117180</h6>
+  </div>
+
+  <div style="margin: 24px 20px 40px 10px;">
+    <h2>Jazz Workshop - Joy Ellis, Monday 19:30 - 21:30</h2>
+      
+    <h4 id="">Now: <span id="now"></span></h4>
+      <a class="btn btn-primary" 
+      href="https://teams.microsoft.com/l/meetup-join/19%3a58d910701d374338b4d4c66bbab279ba%40thread.tacv2/1589817687368?context=%7b%22Tid%22%3a%22b558d0a1-1416-48f1-92b4-e62e1d82fbbc%22%2c%22Oid%22%3a%22e1b99783-d6d1-4f7b-a8aa-1f13181e890b%22%7d" rel="noreferrer noopener" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://teams.microsoft.com/l/meetup-join/19%253a58d910701d374338b4d4c66bbab279ba%2540thread.tacv2/1589817687368?context%3D%257b%2522Tid%2522%253a%2522b558d0a1-1416-48f1-92b4-e62e1d82fbbc%2522%252c%2522Oid%2522%253a%2522e1b99783-d6d1-4f7b-a8aa-1f13181e890b%2522%257d&amp;source=gmail&amp;ust=1591171111770000&amp;usg=AFQjCNEcHC1Nb0LDEGntUM0S2DR1y9RcbQ">
+  Connect
+    </a> 
+
+    <br/>
+    <h3>Schedule</h3>
+    <p id="nowTime"></p>
+    <table onload="compareDatesWithNow();">
+      <tbody>
+        <tr id="ck0"></tr>
+        <tr id="ck1"></tr>
+        <tr id="ck2"></tr>
+        <tr id="ck3"></tr>
+        <tr id="ck4"></tr>
+        <tr id="ck5"></tr>
+        <tr id="ck6"></tr>
+        <tr id="ck7"></tr>
+        <tr id="ck8"></tr>
+      </tbody>
+    </table>
+  </div>
+  </div>
+
+  </body>
+</html>
