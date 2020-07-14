@@ -27,3 +27,33 @@
 
     C                   D                   E         F                   G                   A                   B    
 
+
+    1        b2/9       2/9      -3         3         4/11     b5         5        b6/b13     6/13     b7         7    
+    I        bii        ii       -iii       iii       IV       -V         V        -vi        vi       -vii       vii 
+
+    C                   D                   E         F                   G                   A                   B    
+
+              D                   E         F                   G                   A                   B         C    
+
+    D                   E         F                   G                   A                   B         C
+
+              E         F                   G                   A                   B         C                   D    
+
+    E         F                   G                   A                   B         C                   D
+
+    F                   G                   A                   B         C                   D                   E    
+
+              G                   A                   B         C                   D                   E         F    
+
+    G                   A                   B         C                   D                   E         F
+
+              A                   B         C                   D                   E         F                   G    
+
+    A                   B         C                   D                   E         F                   G
+
+              B         C                   D                   E         F                   G                   A    
+
+    B         C                   D                   E         F                   G                   A
+
+    C                   D                   E         F                   G                   A                   B    
+
