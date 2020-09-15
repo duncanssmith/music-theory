@@ -3,7 +3,7 @@ Tetrad scales - built from two tetrads.
 
 These are all diatonic tetrad scales:
 
-The first 9 have the following limitations: each tetrad must have a whole tone between it and its adjacent tetrad. Five of these corresponde with modes of the Major scale, while four do not. The remaining two modes follow:
+The first 9 have the following limitations: each tetrad must have a whole tone between it and its adjacent tetrad. Five of these correspond to modes of the Major scale, while four do not. The remaining two modes follow:
 
 C - D - E F - G - A - B C
 
