@@ -1,0 +1,34 @@
+------------------------------------------------
+Melodic Minor Scale:
+
+C         1-23-4-5-6-78
+
+Modes:
+
+I         1-23-4-5-6-78 Ascending Melodic Minor
+II        12-3-4-5-67-8 Phrygian nat6; Dorian b2; Phrygidorian
+III       1-2-3-4-56-78 Lydian Augmented; Lydian #5
+IV        1-2-3-45-67-8 Lydian Dominant; Lydian b7; Mixolydian #4; Overtone; Lydomyxian; Acoustic scale
+V         1-2-34-56-7-8 Mixolydian b6; Melodic Major; Hindu; Myxaeolian
+VI        1-23-45-6-7-8 Locrian nat2; Half-diminished; Aeolocrian
+VII       12-34-5-6-7-8 Super locrian; Altered dominant; altered scale
+
+
+------------------------------------------------
+Harmonic Minor Scale:
+
+I         1-23-4-56--78 
+II        12-3-45--67-8 
+III       1-2-34--56-78
+IV        1-23--45-67-8 
+V         12--34-56-7-8 
+VI        1--23-45-6-78 
+VII       12-34-5-6-7-8 
+
+I         X-XX-X-XX--XX 
+II        XX-X-XX--XX-X 
+III       X-X-XX--XX-XX
+IV        X-XX--XX-XX-X 
+V         XX--XX-XX-X-X 
+VI        X--XX-XX-X-XX 
+VII       XX-XX-X-X-X-X 
