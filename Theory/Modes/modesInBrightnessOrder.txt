@@ -1,4 +1,4 @@
-Modes in order of brightness:
+Modes in brightness order:
 
 Lydian     1 - 2 - 3 -#4 - 5 - 6 - 7 - 8
 Ionian     1 - 2 - 3 - 4 - 5 - 6 - 7 - 8
